@@ -1,0 +1,74 @@
+.logoo{
+    height: 80px;
+    width: 25%;
+    float: left;
+    padding: 2px;
+}
+.logo{
+    height: 80px;
+    width: 25%;
+    float: left;
+    padding: 9px;
+}
+header{
+    border: 2px solid black;
+    background-color: rgb(27, 27, 44);
+    height: px;
+    padding-bottom: 5px;
+}
+nav{
+    background-color: rgb(27, 27, 44);
+    height: 60px;
+    padding: 1%;
+    border: 2px solid rgb(27, 27, 44);
+    text-decoration:none;
+    
+    
+}
+nav ul
+{
+    text-align: center;
+    font-size: 1.2em;
+    
+}
+
+nav ul li
+{
+    list-style-type: none;
+    background-color: #d3d3d3;
+    display: inline;
+    border: x solid rgb(27, 27, 44);
+    padding: 15px;
+    margin:px;   
+    
+}
+#active{
+    background-color: #d3d3d3;
+}
+
+h2{
+    text-underline-offset: 50;
+}
+h5{
+    border:2px solid black;
+}
+h3{
+    border:2px solid black;
+}
+footer{
+    clear: both;
+    border-top: 2px solid rgb(27, 27, 44);
+    background-color: rgb(27, 27, 44);
+    height: px;
+}
+footer p{
+    float: right;
+    padding-right: px;
+}
+footer ul{
+    text-align: center;
+}
+footer ul li{
+    display: inline;
+}
+body {background-color: rgb(121, 121, 121);}
