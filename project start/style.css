@@ -1,5 +1,5 @@
 body{
-    background: url(bg.png) no-repeat;
+    background: url(homebg.gif) no-repeat;
     background-size: cover;
   }
   .box{
@@ -63,4 +63,27 @@ body{
    
 
 
+}
+#Button2{
+  margin-left: -830px;
+  margin-top: -58px;
+  position:fixed;
+  
+    width: 350px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 15px;
+    color: white;
+   
+
+
+}
+#Button3{
+  height: 100px;
+  width: 150px;
+  opacity: 50%;
+}
+#Button4{
+  height: 100px;
+  width: 150px;
+  opacity: 50%;
 }
